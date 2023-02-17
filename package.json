@@ -1,0 +1,19 @@
+{
+  "name": "feb17mysql2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^4.5.0"
+  },
+  "dependencies": {
+    "mysql2-async": "^1.1.4"
+  },
+  "type":"module"
+}
