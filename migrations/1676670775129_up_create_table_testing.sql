@@ -1,0 +1,1 @@
+CREATE TABLE testing(id INTEGER, name VARCHAR(255));

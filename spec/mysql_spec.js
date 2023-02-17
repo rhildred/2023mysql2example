@@ -1,7 +1,8 @@
 import Db from 'mysql2-async';
 
 describe("mysql", () => {
-    it("it selects a row from testing", async () => {
+    it("it creates a database and selects a row from testing", async () => {
+
         const db = new Db({
             host: 'localhost',
             password: 'example',
